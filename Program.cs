@@ -48,7 +48,7 @@ namespace Gestion_des_notes
 
         static void AfficherMenu()
         {
-            Console.WriteLine("\n--- Menu Principal ---");
+            Console.WriteLine("\n---- Menu Principal ----");
             Console.WriteLine("1---- Ajouter un étudiant");
             Console.WriteLine("2---- Ajouter un cours");
             Console.WriteLine("3---- Ajouter une note");
